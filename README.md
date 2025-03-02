@@ -30,7 +30,7 @@ buzzword-bingo/
 Create a new directory under the cards directory and copy existing sample files into the new directory.
 Or copy an existing sample directory with existing files.
 
-Required files
+Required files:
 
 + `index.html`
 + `words.js`
