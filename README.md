@@ -1,5 +1,7 @@
 # Buzzword Bingo
 
+A buzzword bingo with automatically generated bingo cards.
+
 The project is a copy of bullshit-bingo:
 https://github.com/domahidizoltan/bullshit-bingo
 
@@ -61,7 +63,7 @@ Every time you refresh the page it will generate a new Bingo card.
 
 ## Bingo fields
 
-There are three variations of the bingo grid, with different numbers of playable fields.
+There are three variations of the bingo grid, with different numbers of playable fields:
 
 + `index.html` – 4x4 grid, 16 fields
 + `index24.html` – 5x5 grid, 25 fields, one free (24 actively playable)
