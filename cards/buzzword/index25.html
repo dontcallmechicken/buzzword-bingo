@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Buzzword Bingo</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Standard Stylecheet -->
+    <link rel="stylesheet" type="text/css" href="../../files/css/standard.css">
+    <!-- angepasstes Stylecheet zur globalen Benutzung -->
+    <!-- <link rel="stylesheet" type="text/css" href="../../files/css/dcmc.css"> -->
+    <!-- angepasstes Stylecheet nur für diese Seite/Bingo -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- JavaScript Dateien -->
+    <script type="text/javascript" src="../../files/js/game.js"></script>
+    <script type="text/javascript" src="words.js"></script>
+    <script type="text/javascript" src="../../files/js/content25.js"></script>
+    <!-- spielt Audiodatei beim laden der Seite ab. Ist Audiodatei 'bingo' im selben Ordber vorhanden, dann wird diese abgespielt; ansonsten Datei aus dem Verzeichnis 'media'. -->
+    <audio autoplay>
+      <source src="bingo.ogg" type="audio/ogg">
+      <source src="bingo.mp3" type="audio/mpeg">
+      <source src="../../files/media/bingo.ogg" type="audio/ogg">
+      <source src="../../files/media/bingo.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </head>
+  <body onload="loadWords()">
+    <table class="card" id="card0" border="1" cellspacing="0">
+      <caption>
+        <!-- Bingo Überschrift -->
+        <h2><a href="../../index.html">Buzzword Bingo</a></h2>
+      </caption>
+      <tbody>
+        <tr>
+          <td title="Click to mark cell" id="cell0"></td>
+          <td title="Click to mark cell" id="cell1"></td>
+          <td title="Click to mark cell" id="cell2"></td>
+          <td title="Click to mark cell" id="cell3"></td>
+          <td title="Click to mark cell" id="cell4"></td>
+        </tr>
+        <tr>
+          <td title="Click to mark cell" id="cell5"></td>
+          <td title="Click to mark cell" id="cell6"></td>
+          <td title="Click to mark cell" id="cell7"></td>
+          <td title="Click to mark cell" id="cell8"></td>
+          <td title="Click to mark cell" id="cell9"></td>
+        </tr>
+        <tr>
+          <td title="Click to mark cell" id="cell10"></td>
+          <td title="Click to mark cell" id="cell11"></td>
+          <td title="Click to mark cell" id="cell12"></td>
+          <td title="Click to mark cell" id="cell13"></td>
+          <td title="Click to mark cell" id="cell14"></td>
+        </tr>
+        <tr>
+          <td title="Click to mark cell" id="cell15"></td>
+          <td title="Click to mark cell" id="cell16"></td>
+          <td title="Click to mark cell" id="cell17"></td>
+          <td title="Click to mark cell" id="cell18"></td>
+          <td title="Click to mark cell" id="cell19"></td>
+        </tr>
+        <tr>
+          <td title="Click to mark cell" id="cell20"></td>
+          <td title="Click to mark cell" id="cell21"></td>
+          <td title="Click to mark cell" id="cell22"></td>
+          <td title="Click to mark cell" id="cell23"></td>
+          <td title="Click to mark cell" id="cell24"></td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
