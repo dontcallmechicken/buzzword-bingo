@@ -1,17 +1,18 @@
 const words = `
 
 geschmeidig
-Käse
-Sitzrasen&shy;mäher
+K&auml;se
+Sitzrasen&shy;m&auml;her
+Sitzraso&shy;phober Begriff
 Panda gewinnt
 Panda gewinnt nicht
 WEF
 Klaus Schwab
 Kaffee
-Vanish (Löschung)
+Vanish (L&ouml;schung)
 Shout-Out gegeben
 Shout-Out bekommen
-Verdächtiger Benutzer
+Verd&auml;chtiger Benutzer
 Katze
 Freitag
 Kurze Unterbrechung
@@ -22,6 +23,7 @@ Twitch Umfrage
 ankommender Twitch Raid
 Mineao ist Live
 Mineao ist im Chat
-
+Schnuckeliger Kanal
+Geschmeidige Gruppe
 
 `;
