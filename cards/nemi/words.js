@@ -8,5 +8,7 @@ Savestate
 Maaan ey!
 Ja keine Ahnung ey!
 Gothic
+Köpfchen machen
+Shisha Kohle
 
 `;
