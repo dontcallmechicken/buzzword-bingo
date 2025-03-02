@@ -10,5 +10,7 @@ Ja keine Ahnung ey!
 Gothic
 Köpfchen machen
 Shisha Kohle
+Leon
+Pizza
 
 `;
