@@ -61,6 +61,17 @@ Each one goes in a separate line
 Open the `index.html` from the bingo card directory in a browser or add a link to the list of bingo cards in the `index.html` of the root directory.
 Every time you refresh the page it will generate a new Bingo card.
 
+## Adjustments
+The following HTML tags or elements should be adjusted:
+
++ `<title>` – The title of the HTML document
++ `<caption>` – The  table caption
+
+Additionally for index24.html:
+
++ `<td class="freecell">` – The free field in the middle of the bingo card
+
+
 ## Bingo fields
 
 There are three variations of the bingo grid, with different numbers of playable fields:
@@ -135,9 +146,10 @@ buzzword-bingo/
 └── cards
     └── mybingo
         ├── bingo.mp3
-        ├── index.html
         ├── index24.html
         ├── index25.html
+        ├── index.html
+        ├── style.css
         └── words.js
 ```
 
