@@ -19,5 +19,6 @@ gewinnt bei Counter Strike
 verliert bei Counter Strike
 spricht Englisch
 Dieser Ska!
+stirbt im Spiel
 
 `;
