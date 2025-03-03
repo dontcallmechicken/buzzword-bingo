@@ -69,7 +69,7 @@ The following HTML tags or elements should be adjusted:
 
 Additionally for index24.html:
 
-+ `<td class="freecell">` – The free field in the middle of the bingo card
++ `<td class="freecell">` – A name, word, term for the free field in the middle of the bingo card
 
 
 ## Bingo fields
