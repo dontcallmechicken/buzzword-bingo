@@ -105,15 +105,15 @@ You can also create your own stylesheet in the `files/css/` directory to use it 
 buzzword-bingo/
 └── files
     └── css
-        ├── dcmc.css
-        ├── freeze.css
-        └── standard.css
+        ├── standard.css
+        ├── summer.css
+        └── winter.css
 ```
 
 Within the `index.html` file for the bingo card, the following sequence is automatically loaded:
 
 1. `files/css/standard.css`
-2. `files/css/dcmc.css`  
+2. `files/css/summer.css`  
 or another predefined stylesheet file from the global directory
 3. `style.css`
 
@@ -164,18 +164,9 @@ Complete directory structure:
 ```
 buzzword-bingo/
 ├── index.html
+├── README.md
 ├── cards
 │   ├── buzzword
-│   │   ├── index24.html
-│   │   ├── index25.html
-│   │   ├── index.html
-│   │   └── words.js
-│   ├── dcmc
-│   │   ├── index24.html
-│   │   ├── index25.html
-│   │   ├── index.html
-│   │   └── words.js
-│   ├── freeze
 │   │   ├── index24.html
 │   │   ├── index25.html
 │   │   ├── index.html
@@ -189,9 +180,9 @@ buzzword-bingo/
 │           └── words.js
 └── files
     ├── css
-    │   ├── dcmc.css
-    │   ├── freeze.css
-    │   └── standard.css
+    │   ├── standard.css
+    │   ├── summer.css
+    │   └── winter.css
     ├── js
     │   ├── content16.js
     │   ├── content24.js
