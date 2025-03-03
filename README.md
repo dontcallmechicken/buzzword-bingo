@@ -150,6 +150,8 @@ In the `index.html` for the bingo card you can adjust the output volume in this 
 ```
 
 ### Audio sample file
+
+This is the example audio file used in this project:  
 "Blop sound" by [helloIJustWantSomeSounds](https://freesound.org/s/609207/) at [Freesound](https://freesound.org/) under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) License.
 
 
