@@ -62,7 +62,7 @@ Open the `index.html` from the bingo card directory in a browser or add a link t
 Every time you refresh the page it will generate a new Bingo card.
 
 ## Adjustments
-The following HTML tags or elements should be adjusted:
+The following HTML tags or elements should be adjusted in the `index.html` for the Bingo card:
 
 + `<title>` – The title of the HTML document
 + `<caption>` – The  table caption
