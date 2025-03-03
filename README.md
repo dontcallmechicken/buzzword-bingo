@@ -140,6 +140,11 @@ The first audio file that could be loaded will be played automatically.
 If you do not want audio output, you can comment out the audio element in the `index.html`.
 Or you can rename or delete the audio file in the global directory.
 
+> [!NOTE]
+> Some browsers do not allow autoplay in most cases.  
+> The audio will only play the first time the page loads, or never.  
+> As a browser source within [OBS (Open Broadcaster Software)](https://obsproject.com/), the audio file will play every time it loads.
+
 ### Volume
 
 In the `index.html` for the bingo card you can adjust the output volume in this script element:
