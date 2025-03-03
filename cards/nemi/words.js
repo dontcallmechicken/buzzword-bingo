@@ -12,7 +12,9 @@ K&ouml;pfchen machen
 Shisha Kohle
 Leon
 Ich habe Hunger
+Ich mache mir was zu Essen
 Pizza
+D&ouml;ner
 Wurst&shy;br&ouml;ttchen
 Es ist so dumm!
 Counter Strike
@@ -25,5 +27,9 @@ Hat bock gemacht
 Ach naja, ist OK
 tats&auml;chlich
 so m&auml;&szlig;ig
+halt (F&uuml;llwort)
+P&ouml;belt Zuschauer an
+Ist ja wild
+dingens
 
 `;
