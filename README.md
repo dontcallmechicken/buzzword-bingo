@@ -46,6 +46,8 @@ buzzword-bingo/
         └── words.js
 ```
 
+## List of terms
+
 Replace the words in the `words.js` file with your own ones. Keep the first and last line!  
 Like this:
 
@@ -57,20 +59,6 @@ Each one goes in a separate line
 
 `;
 ```
-
-Open the `index.html` from the bingo card directory in a browser or add a link to the list of bingo cards in the `index.html` of the root directory.
-Every time you refresh the page it will generate a new Bingo card.
-
-## Adjustments
-The following HTML tags or elements should be adjusted in the `index.html` for the Bingo card:
-
-+ `<title>` – The title of the HTML document
-+ `<caption>` – The  table caption
-
-Additionally for index24.html:
-
-+ `<td class="freecell">` – A name, word, term for the free field in the middle of the bingo card
-
 
 ## Bingo fields
 
@@ -96,6 +84,21 @@ buzzword-bingo/
 The `index.html` uses the `game16.js` and the `content16.js` for the bingo game.
 
 The `index24.html` and `index.25.html` use the `game.js` and the appropriate content JavaScript file for the bingo game.
+
+## Adjustments
+The following HTML tags or elements should be adjusted in the `index.html` for the Bingo card:
+
++ `<title>` – The title of the HTML document
++ `<caption>` – The  table caption
+
+Additionally for index24.html:
+
++ `<td class="freecell">` – A name, word, term for the free field in the middle of the bingo card
+
+## How to play
+
+Open the `index.html` from the bingo card directory in a browser or add a link to the list of bingo cards in the `index.html` of the root directory.
+Every time you refresh the page it will generate a new Bingo card.
 
 ## Layout
 
