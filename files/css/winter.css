@@ -1,8 +1,9 @@
-/* Freeze Stylecheet */
+/* Winter Stylecheet */
 body{font-family:arial,verdana,helvetica,sans-serif;margin:0px;color:#000;background-color:#FFF;font-size:20px;}
 /*Tabellen-Überschrift*/
 table.card caption h2{text-align:center;font-weight:bold;width:max-content;margin:5px;border:4px solid #176CBF;border-radius:10px;background:#ADD8E6;padding:0 0.5em;line-height:1.5em;}
-table.card caption a{color:#000;text-decoration: none;}
+table.card caption a{color:#FFF;text-decoration: none;}
+table.card caption a:hover{color:#176CBF;}
 /* Tabelle – Rahmen außen */
 table.card,table.win{text-align:center;border:4px solid #176CBF;margin-left:auto;margin-right:auto;width:728px;height:728px;margin-bottom:10px;}
 table.win{border:2px solid #0F0;}
