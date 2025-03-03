@@ -133,6 +133,7 @@ Within the `index.html` file for the bingo card, the following sequence is autom
 3. bingo.ogg
 4. bingo.mp3
 
+First an audio file is loaded from the global directory and then from the direct directory of the bingo card.
 The last audio file that was loaded will be played automatically.
 
 If you do not want audio output, you can comment out the audio element in the `index.html`.
