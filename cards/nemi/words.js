@@ -14,5 +14,9 @@ Leon
 Pizza
 Wurst&shy;br&ouml;ttchen
 Es ist so dumm!
+Counter Strike
+gewinnt bei Counter Strike
+verliert bei Counter Strike
+spricht Englisch
 
 `;
