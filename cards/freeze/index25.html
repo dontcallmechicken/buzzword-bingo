@@ -14,13 +14,17 @@
     <script type="text/javascript" src="words.js"></script>
     <script type="text/javascript" src="../../files/js/content25.js"></script>
     <!-- spielt Audiodatei beim laden der Seite ab. Ist Audiodatei 'bingo' im selben Ordber vorhanden, dann wird diese abgespielt; ansonsten Datei aus dem Verzeichnis 'media'. -->
-    <audio autoplay>
+    <audio id="bingosound" autoplay>
       <source src="bingo.ogg" type="audio/ogg">
       <source src="bingo.mp3" type="audio/mpeg">
-      <source src="../../files/media/bingo.ogg" type="audio/ogg">
-      <source src="../../files/media/bingo.mp3" type="audio/mpeg">
+      <source src="../../../files/media/bingo.ogg" type="audio/ogg">
+      <source src="../../../files/media/bingo.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
+    <script>
+      var audio = document.getElementById("bingosound");
+      audio.volume = 0.2;
+    </script>
   </head>
   <body onload="loadWords()"> 
     <table class="card" id="card0" border="1" cellspacing="0">
