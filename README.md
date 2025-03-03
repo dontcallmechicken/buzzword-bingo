@@ -128,13 +128,14 @@ Every time the bingo cards page loads, an audio file is played.
 
 Within the `index.html` file for the bingo card, the following sequence is automatically loaded:
 
-1. files/media/bingo.ogg
-2. files/media/bingo.mp3
-3. bingo.ogg
-4. bingo.mp3
+1. bingo.ogg
+2. bingo.mp3
+3. files/media/bingo.ogg
+4. files/media/bingo.mp3
 
-First an audio file is loaded from the global directory and then from the direct directory of the bingo card.
-The last audio file that was loaded will be played automatically.
+
+First an audio file is loaded from the direct directory of the bingo card and then from the global directory.
+The first audio file that could be loaded will be played automatically.
 
 If you do not want audio output, you can comment out the audio element in the `index.html`.
 Or you can rename or delete the audio file in the global directory.
