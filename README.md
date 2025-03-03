@@ -1,6 +1,7 @@
 # Buzzword Bingo
 
 A buzzword bingo with automatically generated bingo cards.
+With the possibility to create many different bingo games with different card sizes.
 
 The project is a copy of bullshit-bingo:
 https://github.com/domahidizoltan/bullshit-bingo
