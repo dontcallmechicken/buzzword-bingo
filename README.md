@@ -133,7 +133,7 @@ If you want to use the standard stylesheet, it is sufficient to comment out the 
 Open the `index.html` from the bingo card directory in a browser or add a link to the list of bingo cards in the `index.html` of the root directory.
 Every time you refresh the page it will generate a new Bingo card.
 
-Clicking on the heading of the bingo card takes you back to the home page, which is the index.html in the root directory.  
+Clicking on the heading of the bingo card takes you back to the home page, which is the `index.html` in the root directory.
 The heading is formatted using the stylecheet so that it is not displayed as a regular link in the browser.
 
 # Summary
