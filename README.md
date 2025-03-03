@@ -140,7 +140,7 @@ Or you can rename or delete the audio file in the global directory.
 
 ### Volume
 
-In the index.html for the bingo card you can adjust the output volume in this script element:
+In the `index.html` for the bingo card you can adjust the output volume in this script element:
 ```
 <script>
   var audio = document.getElementById("bingosound");
