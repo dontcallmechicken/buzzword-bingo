@@ -124,6 +124,30 @@ If you want to use the standard stylesheet, it is sufficient to comment out the 
 
 ## Audio
 
+Every time the bingo cards page loads, an audio file is played.
+
+Within the `index.html` file for the bingo card, the following sequence is automatically loaded:
+
+1. files/media/bingo.ogg
+2. files/media/bingo.mp3
+3. bingo.ogg
+4. bingo.mp3
+
+The last audio file that was loaded will be played automatically.
+
+If you do not want audio output, you can comment out the audio element in the `index.html`.
+Or you can rename or delete the audio file in the global directory.
+
+### Volume
+
+In the index.html for the bingo card you can adjust the output volume in this script element:
+```
+<script>
+  var audio = document.getElementById("bingosound");
+  audio.volume = 0.2;
+</script>
+```
+
 ### Audio sample file
 "Blop sound" by [helloIJustWantSomeSounds](https://freesound.org/s/609207/) at [Freesound](https://freesound.org/) under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) License.
 
