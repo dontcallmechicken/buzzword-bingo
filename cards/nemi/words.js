@@ -18,5 +18,6 @@ Counter Strike
 gewinnt bei Counter Strike
 verliert bei Counter Strike
 spricht Englisch
+Dieser Ska!
 
 `;
