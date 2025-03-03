@@ -95,16 +95,11 @@ Additionally for index24.html:
 
 + `<td class="freecell">` – A name, word, term for the free field in the middle of the bingo card
 
-## How to play
-
-Open the `index.html` from the bingo card directory in a browser or add a link to the list of bingo cards in the `index.html` of the root directory.
-Every time you refresh the page it will generate a new Bingo card.
-
 ## Layout
 
 There are stylecheet files that can be used globally.
 Otherwise, you can copy one of the existing stylecheet files into the directory of the bingo card, rename it to `style.css` and adapt it.
-You can also create your own stylesheet in the `files/css` directory to use it globally.
+You can also create your own stylesheet in the `files/css/` directory to use it globally.
 
 ```
 buzzword-bingo/
@@ -131,6 +126,15 @@ If you want to use the standard stylesheet, it is sufficient to comment out the 
 
 ### Audio sample file
 "Blop sound" by [helloIJustWantSomeSounds](https://freesound.org/s/609207/) at [Freesound](https://freesound.org/) under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) License.
+
+
+# How to play
+
+Open the `index.html` from the bingo card directory in a browser or add a link to the list of bingo cards in the `index.html` of the root directory.
+Every time you refresh the page it will generate a new Bingo card.
+
+Clicking on the heading of the bingo card takes you back to the home page, which is the index.html in the root directory.  
+The heading is formatted using the stylecheet so that it is not displayed as a regular link in the browser.
 
 # Summary
 
