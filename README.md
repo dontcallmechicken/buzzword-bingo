@@ -141,7 +141,7 @@ If you do not want audio output, you can comment out the audio element in the `i
 Or you can rename or delete the audio file in the global directory.
 
 > [!NOTE]
-> Some browsers do not allow autoplay in most cases.  
+> Some browsers do not allow autoplay in most cases.
 > The audio will only play the first time the page loads, or never.  
 > As a browser source within [OBS (Open Broadcaster Software)](https://obsproject.com/), the audio file will play every time it loads.
 
