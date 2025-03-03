@@ -85,7 +85,7 @@ The `index.html` uses the `game16.js` and the `content16.js` for the bingo game.
 
 The `index24.html` and `index.25.html` use the `game.js` and the appropriate content JavaScript file for the bingo game.
 
-## Adjustments
+## Bingo Title 
 The following HTML tags or elements should be adjusted in the `index.html` for the Bingo card:
 
 + `<title>` – The title of the HTML document
