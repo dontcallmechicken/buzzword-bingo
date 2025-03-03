@@ -136,7 +136,7 @@ Every time you refresh the page it will generate a new Bingo card.
 Clicking on the caption of the bingo card takes you back to the home page, which is the `index.html` in the root directory.
 The caption is formatted using the stylecheet so that it is not displayed as a regular link in the browser.
 
-# Summary
+# Overview
 
 Only required files:
 ```
