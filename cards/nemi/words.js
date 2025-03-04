@@ -1,7 +1,7 @@
 const words = `
 
 Gothic
-F&uuml;r&nbsp;Gomez!
+F&uuml;r Gomez!
 Hauptsache
 Pause
 weg mit der Brille
@@ -28,7 +28,7 @@ Hat bock gemacht
 Ach naja, ist OK
 tats&auml;chlich
 so m&auml;&szlig;ig
-halt (F&uuml;llwort)
+halt<br>(F&uuml;llwort)
 P&ouml;belt Zuschauer an
 Ist ja wild
 dingens
