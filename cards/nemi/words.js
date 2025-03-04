@@ -33,5 +33,7 @@ P&ouml;belt Zuschauer an
 Ist ja wild
 dingens
 Ohne Scheiß
+redet über Frauen
+singt / stimmt ein Lied an
 
 `;
