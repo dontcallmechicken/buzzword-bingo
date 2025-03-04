@@ -25,5 +25,6 @@ Mineao ist Live
 Mineao ist im Chat
 Schnuckeliger Kanal
 Geschmeidige Gruppe
+Gockel singt
 
 `;
