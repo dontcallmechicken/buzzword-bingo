@@ -15,8 +15,10 @@ Leon
 Ich habe Hunger
 Ich mache mir was zu Essen
 Pizza
+Senf
 D&ouml;ner
 Wurst&shy;br&ouml;ttchen
+Nuttela&shy;br&ouml;ttchen
 Es ist so dumm!
 Counter Strike
 gewinnt bei Counter Strike
@@ -35,5 +37,6 @@ dingens
 Ohne Scheiß
 redet über Frauen
 singt / stimmt ein Lied an
+Was geht (ab)?
 
 `;
