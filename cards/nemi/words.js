@@ -1,7 +1,7 @@
 const words = `
 
 Gothic
-F&uuml;r Gomez!
+F&uuml;r&nbsp;Gomez!
 Hauptsache
 Pause
 weg mit der Brille
