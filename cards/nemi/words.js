@@ -1,5 +1,7 @@
 const words = `
 
+Gothic
+F&uuml;r Gomez!
 Hauptsache
 Pause
 weg mit der Brille
@@ -7,7 +9,6 @@ Sonnen&shy;brille
 Savestate
 Maaan ey!
 Ja keine Ahnung ey!
-Gothic
 K&ouml;pfchen machen
 Shisha Kohle
 Leon
